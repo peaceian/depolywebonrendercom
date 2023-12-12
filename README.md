@@ -11,7 +11,8 @@ Search the setting.py about static-files related items, such as "STORAGES".<br><
 Final step -- python manage.py collectstatic, pip install whitenoise, and other settings at setting.py.<br><br>
 4.Django favicon: https://learndjango.com/tutorials/django-favicon-tutorial<br>
 The website logo file path and setting.<br><br>
-5.requirements.txt: pip install requirements, pip freeze > requirements.txt<br><br>
+5.requirements.txt: https://zhuanlan.zhihu.com/p/69058584<br>
+pip install -r requirement.txt, pip freeze > requirements.txt<br><br>
 6.gunicorn: https://community.render.com/t/bash-gunicorn-command-not-found/1485/5 <br>
 The gunicorn add in requiremwnrs.txt
 7.poetry: pip install poetry<br><br>
