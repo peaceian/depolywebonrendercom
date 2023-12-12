@@ -2,6 +2,7 @@
 Record the deployment of the web onrender.com<br>
 Consultation of reference websites is very helpful.<br>
 And success with the deployment of the website finally.<br>
+First deploy December 4, 2023 at 3:23 PM --> Deploy twentysixth December 12, 2023 at 12:33 PM<br><br>
 Ref:<br>
 1.Onrender Guide: https://render.com/docs/deploy-django.<br>
 Step by step could complete almost all necessary items that deploy the web.<br><br>
