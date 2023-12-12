@@ -24,3 +24,4 @@ Collect the static files using the Whitenoise is easy to complete.<br><br>
 9.some tiny adjusts: https://stackoverflow.com/questions/24857158/commanderror-you-must-set-settings-allowed-hosts-if-debug-is-false <br>
 CommandError: You must set settings.ALLOWED_HOSTS if DEBUG is False. ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'www.mysite.com']<br><br>
 if Build cache doesn’t pick up changes in build scripts,use Clear build cache and deplo.<br><br>
+!image[https://github.com/peaceian/depolywebonrendercom/blob/main/onrendersetting.png]
