@@ -14,8 +14,9 @@ The website logo file path and setting.<br><br>
 5.requirements.txt: https://zhuanlan.zhihu.com/p/69058584<br>
 pip install -r requirement.txt, pip freeze > requirements.txt<br><br>
 6.gunicorn: https://community.render.com/t/bash-gunicorn-command-not-found/1485/5 <br>
-The gunicorn add in requiremwnrs.txt
-7.poetry: pip install poetry<br><br>
+The gunicorn add in requiremwnrs.txt<br><br>
+7.poetry: https://www.ixiqin.com/2023/06/26/deploying-django-4-2-on-render-com/<br>
+pip install poetry<br><br>
 8.Whitenoise: https://whitenoise.readthedocs.io/en/stable/django.html<br>
 https://hatemegalaxy.blogspot.com/2017/08/django-whitenoise-django-using.html<br>
 Collect the static files using the Whitenoise is easy to complete.<br><br>
